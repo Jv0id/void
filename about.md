@@ -8,8 +8,5 @@ titles:
 key: page-about
 ---
 
-Just say something about yourself. :+1:
+你们好，欢迎来到我的博客。
 
-{% highlight javascript %}
-(() => console.log('hello, world!'))();
-{% endhighlight %}
