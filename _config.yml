@@ -13,8 +13,8 @@
 
 ## Base settings ##
 # url:  #!the base hostname & protocol for your site e.g. https://www.someone.com (!!required!!)
-baseurl: /jekyll-text-theme
-title: zcxv's blog
+baseurl: /void
+title: test
 description: > #this means to ignore newlines until "nav_lists:"
   欢迎来到我的blog，感谢田崎开发出这好的系统
 nav_lists:
@@ -36,8 +36,8 @@ timezone: Asia/Shanghai
 
 ## Author & social ##
 author:
-  name: zcxv
-  email: 1771938667@qq.com #your Email address e.g. someone@site.com
+  name: test
+  email: test@qq.com #your Email address e.g. someone@site.com
   # facebook:  #your Facebook username
   # twitter:  #your Twitter username
   # github:  #your GitHub username
